@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0969DA"/>
+    </linearGradient>
+  </defs>
+  <!-- Window Container -->
+  <rect width="900" height="130" rx="10" fill="url(#bg)" stroke="#30363D" stroke-width="1.5"/>
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="4" rx="2" fill="url(#lineGrad)"/>
+  <!-- Terminal Dots -->
+  <circle cx="28" cy="26" r="5" fill="#EF4444" opacity="0.85"/>
+  <circle cx="46" cy="26" r="5" fill="#F59E0B" opacity="0.85"/>
+  <circle cx="64" cy="26" r="5" fill="#10B981" opacity="0.85"/>
+  <text x="90" y="30" font-family="'SF Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#8B949E">edwin@intelligent-systems:~</text>
+  <!-- Main Name & Identity -->
+  <text x="28" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">Edwin Antonie</text>
+  <text x="248" y="77" font-family="'SF Mono', Consolas, 'Courier New', monospace" font-size="15" fill="#38BDF8" font-weight="600">&gt; Intelligent Systems &amp; Full-Stack AI</text>
+  <!-- Subtitle Coordinates -->
+  <text x="28" y="105" font-family="'SF Mono', Consolas, 'Courier New', monospace" font-size="13" fill="#8B949E">BINUS University &#8226; Jakarta, ID &#8226; ML Pipelines &#8226; Computer Vision &#8226; Edge Inference</text>
+</svg>
