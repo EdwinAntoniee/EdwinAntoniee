@@ -22,11 +22,6 @@
 
 I am an undergraduate Computer Science student specializing in **Intelligent Systems** at **Bina Nusantara University (BINUS)** in Jakarta. My focus is on turning raw data into robust, production-ready software—spanning reproducible machine learning pipelines, edge-efficient computer vision architectures, and type-safe full-stack AI applications.
 
-- **Computer Vision & Biometrics:** Developing presentation attack detection (Face Anti-Spoofing) systems on standard benchmark datasets (OULU-NPU), pairing lightweight MobileNetV2 liveness gates with ArcFace embeddings for low-power edge execution.
-- **Machine Learning & Pipeline Engineering:** Designing leak-free ColumnTransformer pipelines, cost-sensitive classification under severe class imbalance, and Explainable AI (XAI) workflows with SHAP to make black-box models human-auditable.
-- **Full-Stack & Systems:** Bridging machine learning with responsive production systems using FastAPI, Next.js 15, TypeScript, and Docker with fail-closed validation guards and sub-150ms inference latencies.
-- **Mentorship & Community:** Learning & Training Staff at **BNCC** (Bina Nusantara Computer Club), leading weekly technical workshops and curriculum coordination for 25+ developers.
-
 ---
 
 ### System Architecture & Engineering Stack
@@ -293,12 +288,14 @@ My technical workflow treats engineering tools not as isolated libraries, but as
       </td>
     </tr>
   </table>
-  
+
   <br/>
-  
+
+  <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="Edwin Antonie 3D Contribution Graph" />
+
+  <br/><br/>
+
   <p>
     <a href="https://edwinantonie.vercel.app">Explore complete project writeups and interactive prototypes on my portfolio &rarr;</a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=EdwinAntoniee&label=Profile%20Views&color=0969DA&style=flat-square" alt="Profile Views" />
 </div>
