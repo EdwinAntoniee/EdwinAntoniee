@@ -24,37 +24,6 @@ I am an undergraduate Computer Science student specializing in **Intelligent Sys
 
 ---
 
-### System Architecture & Engineering Stack
-
-My technical workflow treats engineering tools not as isolated libraries, but as an integrated production pipeline:
-
-```
-[ Ingest: Sensor Telemetry, Document Scans & Clickstreams ]
-                            │
-                            ▼
-┌────────────────────────────────────────────────────────┐
-│  01. DATA INGESTION & PIPELINE ENGINEERING             │
-│  • Leak-free ColumnTransformers • SMOTE & Yeo-Johnson  │
-│  • Physics-informed features    • Automated EDA        │
-└───────────────────────┬────────────────────────────────┘
-                        │
-                        ▼
-┌────────────────────────────────────────────────────────┐
-│  02. MODELING, VISION & NLP ARCHITECTURES              │
-│  • PyTorch / MobileNetV2 / ArcFace • LightGBM, XGBoost │
-│  • DistilBERT + Sentence-BERT      • ChromaDB Vectors  │
-│  • Document AI (Donut OCR)         • Qwen2.5-7B QLoRA  │
-└───────────────────────┬────────────────────────────────┘
-                        │
-                        ▼
-┌────────────────────────────────────────────────────────┐
-│  03. PRODUCTION SERVING, SAFETY GUARDS & WEB SYSTEMS   │
-│  • FastAPI (Async REST APIs)   • Next.js 15 / React    │
-│  • Fail-closed Dual Validation • Docker Containers     │
-│  • SHAP Waterfall Explanations • Edge Runtime (ONNX)   │
-└────────────────────────────────────────────────────────┘
-```
-
 #### Engineering Capabilities by Tier
 
 <table>
